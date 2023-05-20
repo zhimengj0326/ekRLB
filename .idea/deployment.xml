@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="MultiReward3">
+    <serverData>
+      <paths name="MultiReward2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhimeng/Multireward/risk_tendency_learning" local="$PROJECT_DIR$/risk_tendency_learning" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="MultiReward3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhimeng/Multireward" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="datalab">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zmjiang/code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

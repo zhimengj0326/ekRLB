@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7f6d41c-911c-41e3-bbbe-5954255b6914" name="MultiReward3" url="http://datalab3.engr.tamu.edu">
+        <fileTransfer host="datalab3.engr.tamu.edu" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e1f8ec6c-37f0-4fb1-89d4-e98960aa9d9c" name="MultiReward2" url="http://datalab2.cse.tamu.edu">
+        <fileTransfer host="datalab2.cse.tamu.edu" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2663c3b5-12a3-4e2d-80ad-000ed733ff15" name="datalab" url="http://datalab.cse.tamu.edu">
+        <fileTransfer host="datalab.cse.tamu.edu" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
